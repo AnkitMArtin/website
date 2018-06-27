@@ -54,4 +54,8 @@ We use GitHub issues for [tracking bugs and feature requests](https://github.com
 
 ## Deployment
 
-[datatogether.org](https://datatogether.org/) is manually deployed over IPFS ([the InterPlanetary File System](https://ipfs.io/)) using IPNS (the Inter-Planetary Naming System), you can also view the site via an IPFS gateway at [ipfs.io/ipns/datatogether.org](https://ipfs.io/ipns/datatogether.org/).
+[datatogether.org](https://datatogether.org/) is automatically built and deployed using [IPFS's Jenkins build system](https://ci.ipfs.team/blue) ([github](https://github.com/ipfs/jenkins)): [https://ci.ipfs.team/blue/organizations/jenkins/datatogether/website/activity](https://ci.ipfs.team/blue/organizations/jenkins/datatogether%2Fwebsite/activity)
+
+<Something about CI integration? build badge?>
+
+
